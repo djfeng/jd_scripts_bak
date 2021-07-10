@@ -1,3 +1,52 @@
 [submodule "jd_star261"]
 	path = jd_star261
 	url = https://github.com/star261/jd.git
+[submodule "jd_jiulan"]
+	path = jd_jiulan
+	url = https://github.com/jiulan/platypus.git
+[submodule "jd_smiek2221"]
+	path = jd_smiek2221
+	url = https://github.com/smiek2221/scripts.git
+[submodule "jd_JDHelloWorld"]
+	path = jd_JDHelloWorld
+	url = https://github.com/JDHelloWorld/jd_scripts.git
+[submodule "jd_moposmall"]
+	path = jd_moposmall
+	url = https://github.com/moposmall/Script.git
+
+[submodule "jd_Wenmoux"]
+	path = jd_Wenmoux
+	url = https://github.com/Wenmoux/scripts.git
+	branch = wen
+[submodule "jd_yangtingxiao"]
+	path = jd_yangtingxiao
+	url = https://github.com/yangtingxiao/QuantumultX.git
+	branch = master
+[submodule "jd_passerby-b"]
+	path = jd_passerby-b
+	url = https://github.com/passerby-b/JDDJ.git
+[submodule "jd_NobyDa"]
+	path = jd_NobyDa
+	url = https://github.com/NobyDa/Script.git
+	branch = master
+[submodule "jd_cdle"]
+	path = jd_cdle
+	url = https://github.com/cdle/jd_study
+[submodule "jd_shufflewzc"]
+	path = jd_shufflewzc
+	url = https://github.com/shufflewzc/faker2.git
+[submodule "jd_whyour"]
+	path = jd_whyour
+	url = https://github.com/whyour/hundun.git
+[submodule "jd_qq34347476"]
+	path = jd_qq34347476
+	url = https://github.com/qq34347476/js_script.git
+[submodule "jd_ztxtop"]
+	path = jd_ztxtop
+	url = https://github.com/ztxtop/x.git
+[submodule "jd_SuMaiKaDe"]
+	path = jd_SuMaiKaDe
+	url = https://github.com/SuMaiKaDe/bot.git
+[submodule "jd_chiupam"]
+	path = jd_chiupam
+	url = https://github.com/chiupam/JD_Diy.git

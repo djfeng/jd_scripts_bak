@@ -1,0 +1,20 @@
+name: update scripts
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "*/30 * * * *"
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Update submodules
+        shell: bash
+        run: |
+          git config --global user.email "${{ secrets.USER_EMAIL }}"
+          git config --global user.name "${{ secrets.USER_NAME }}"
+          git submodule update --init --remote
+          git add .
+          git commit -am "[Bot] Update scripts"
+          git push --force-with-lease

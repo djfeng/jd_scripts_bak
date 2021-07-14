@@ -50,3 +50,7 @@
 [submodule "jd_chiupam"]
 	path = jd_chiupam
 	url = https://github.com/chiupam/JD_Diy.git
+[submodule "jd_Aaron-lv"]
+	path = jd_Aaron-lv
+	url = https://github.com/Aaron-lv/sync.git
+	branch = jd_scripts

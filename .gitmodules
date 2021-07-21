@@ -54,3 +54,9 @@
 	path = jd_Aaron-lv
 	url = https://github.com/Aaron-lv/sync.git
 	branch = jd_scripts
+[submodule "jd_ClassmateLin"]
+	path = jd_ClassmateLin
+	url = https://github.com/ClassmateLin/jd_scripts.git
+[submodule "jd_CenBoMin"]
+	path = jd_CenBoMin
+	url = https://github.com/CenBoMin/JDTASK_V2P.git
